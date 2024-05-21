@@ -10,4 +10,8 @@ Three R files were added to Sorkin's code:
 - "sauvegarde_akm.R" gives proper layout to the output of that estimation, and saves it.
 - "final_computations.R" carries out the decomposition of the gender gap in firm premium and estimates a few key statistics included in our report.
 
-Do files ...
+Do files (STATA):
+- "package.do" installs packages needed.
+- "data_clean.do" cleans data, applies sample restrictions, identify dominant firms and transitions. 
+- "akm.do" runs AKM models and obtains firm premiums for each gender.
+- "figures.do" generates figures attached in the report. 
