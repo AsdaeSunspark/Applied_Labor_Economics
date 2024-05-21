@@ -12,6 +12,6 @@ Three R files were added to Sorkin's code:
 
 Do files (STATA):
 - "package.do" installs packages needed.
-- "data_clean.do" cleans data, applies sample restrictions, identify dominant firms and transitions. 
+- "data_clean.do" cleans data, applies sample restrictions, identifies dominant firms and transitions. 
 - "akm.do" runs AKM models and obtains firm premiums for each gender.
 - "figures.do" generates figures attached in the report. 
