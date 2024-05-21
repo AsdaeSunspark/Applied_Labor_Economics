@@ -15,3 +15,4 @@ Do files (STATA):
 - "data_clean.do" cleans data, applies sample restrictions, identifies dominant firms and transitions. 
 - "akm.do" runs AKM models and obtains firm premiums for each gender.
 - "figures.do" generates figures attached in the report. 
+
